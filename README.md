@@ -3,10 +3,10 @@
 ### Categories
 - [Java](#Java)
 - [Spring](#Spring)
-- [Data Structure](#Data Structure)
+- [Data Structure](#DataStructure)
 
 ### Java
 
 ### Spring
 
-### Data Structure
+### DataStructure

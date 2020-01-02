@@ -1,9 +1,9 @@
 # Data Structure
 
 ### Categories
-- [Quick Sort](#Quick Sort)
+- [Quick Sort](#QuickSort)
 
-### Quick Sort
+### QuickSort
 
 전체 값들을 정렬하지 않고, 기준값으로 왼쪽 부분집합과 오른쪽 부분집합으로 나누어서 분할하여 정렬하는 방식.
 
