@@ -1,7 +1,4 @@
-# Data Structure
-
-### Categories
-- [Quick Sort](#QuickSort)
+# [Data Structure](https://github.com/hyojaekim/TIL/tree/master/DataStructure) / [🏠 Home](https://github.com/hyojaekim/TIL)
 
 ### QuickSort
 
