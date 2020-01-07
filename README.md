@@ -5,7 +5,7 @@
 - [Spring](#Spring)
 - [Data Structure](#DataStructure)
 
-### Java
+### [Java](https://github.com/hyojaekim/TIL/tree/master/Java)
 
 ### [Spring](https://github.com/hyojaekim/TIL/tree/master/Spring)
 
