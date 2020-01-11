@@ -4,6 +4,8 @@
 - [Java](#Java)
 - [Spring](#Spring)
 - [Data Structure](#DataStructure)
+- [Web](#Web)
+- [Network](#Network)
 
 ### [Java](https://github.com/hyojaekim/TIL/tree/master/Java)
 
@@ -21,3 +23,7 @@
 ### [Web](https://github.com/hyojaekim/TIL/tree/master/Web)
 
 - [CORS란?](https://github.com/hyojaekim/TIL/blob/master/Web/cors.md#corscross-origin-resource-sharing%EB%9E%80)
+
+### [Network](https://github.com/hyojaekim/TIL/tree/master/Network)
+
+- [로드 밸런서란?](https://github.com/hyojaekim/TIL/blob/master/Network/load-balancer.md#%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9Cload-balancer)
