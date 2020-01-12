@@ -1,4 +1,4 @@
-# [Data Structure](https://github.com/hyojaekim/TIL/tree/master/DataStructure) / [🏠 Home](https://github.com/hyojaekim/TIL)
+# [Algorithm](https://github.com/hyojaekim/TIL/tree/master/Algorithm) / [🏠 Home](https://github.com/hyojaekim/TIL)
 
 ### BubbleSort
 
@@ -23,4 +23,4 @@ public static String bubbleSort(int[] numbers) {
 }
 ```
 
-### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/DataStructure/bubble-sort.md#data-structure---home)
+### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Algorithm/bubble-sort.md#algorithm---home)

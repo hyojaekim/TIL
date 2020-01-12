@@ -1,4 +1,4 @@
-# [Data Structure](https://github.com/hyojaekim/TIL/tree/master/DataStructure) / [🏠 Home](https://github.com/hyojaekim/TIL)
+# [Algorithm](https://github.com/hyojaekim/TIL/tree/master/Algorithm) / [🏠 Home](https://github.com/hyojaekim/TIL)
 
 ### 삽입 정렬(Insertion Sort)
 
@@ -26,4 +26,4 @@ public String sort(int[] array) {
 ```
 
 
-### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/DataStructure/insertion-sort.md#data-structure---home)
+### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Algorithm/insertion-sort.md#algorithm---home)

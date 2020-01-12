@@ -1,4 +1,4 @@
-# [Data Structure](https://github.com/hyojaekim/TIL/tree/master/DataStructure) / [🏠 Home](https://github.com/hyojaekim/TIL)
+# [Algorithm](https://github.com/hyojaekim/TIL/tree/master/Algorithm) / [🏠 Home](https://github.com/hyojaekim/TIL)
 
 ### QuickSort
 
@@ -59,4 +59,4 @@ private static void swap(int[] numbers, int start, int end) {
 }
 ```
 
-### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/DataStructure/quick-sort.md#data-structure---home)
+### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Algorithm/quick-sort.md#algorithm---home)
