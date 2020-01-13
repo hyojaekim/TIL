@@ -4,6 +4,7 @@
 - [Java](#Java)
 - [Spring](#Spring)
 - [Algorithm](#Algorithm)
+- [DataStructure](#DataStructure)
 - [Web](#Web)
 - [Network](#Network)
 
@@ -21,6 +22,10 @@
 - [버블 정렬(Bubble Sort)](https://github.com/hyojaekim/TIL/blob/master/Algorithm/bubble-sort.md#bubblesort)
 - [삽입 정렬(Insertion Sort)](https://github.com/hyojaekim/TIL/blob/master/Algorithm/insertion-sort.md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%ACinsertion-sort)
 - [퀵 정렬(Quick Sort)](https://github.com/hyojaekim/TIL/blob/master/Algorithm/quick-sort.md#quicksort)
+
+### [DataStructure](https://github.com/hyojaekim/TIL/tree/master/DataStructure)
+
+- [큐 (Queue)](https://github.com/hyojaekim/TIL/blob/master/DataStructure/queue.md)
 
 ### [Web](https://github.com/hyojaekim/TIL/tree/master/Web)
 
