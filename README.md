@@ -25,7 +25,7 @@
 
 ### [DataStructure](https://github.com/hyojaekim/TIL/tree/master/DataStructure)
 
-- [큐 (Queue)](https://github.com/hyojaekim/TIL/blob/master/DataStructure/queue.md)
+- [큐 (Queue)](https://github.com/hyojaekim/TIL/blob/master/DataStructure/queue.md#%ED%81%90queue)
 
 ### [Web](https://github.com/hyojaekim/TIL/tree/master/Web)
 
