@@ -22,6 +22,7 @@
 - [버블 정렬(Bubble Sort)](https://github.com/hyojaekim/TIL/blob/master/Algorithm/bubble-sort.md#bubblesort)
 - [삽입 정렬(Insertion Sort)](https://github.com/hyojaekim/TIL/blob/master/Algorithm/insertion-sort.md#%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%ACinsertion-sort)
 - [퀵 정렬(Quick Sort)](https://github.com/hyojaekim/TIL/blob/master/Algorithm/quick-sort.md#quicksort)
+- [병합 정렬(Merge Sort)](https://github.com/hyojaekim/TIL/blob/master/Algorithm/merge-sort.md#%EB%B3%91%ED%95%A9-%EC%A0%95%EB%A0%ACmerge-sort)
 
 ### [DataStructure](https://github.com/hyojaekim/TIL/tree/master/DataStructure)
 
