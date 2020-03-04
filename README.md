@@ -39,3 +39,7 @@
 ### [Network](https://github.com/hyojaekim/TIL/tree/master/Network)
 
 - [로드 밸런서란?](https://github.com/hyojaekim/TIL/blob/master/Network/load-balancer.md#%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9Cload-balancer)
+
+### [ETC](https://github.com/hyojaekim/TIL/tree/master/ETC)
+
+- [OSIV (Open Session In View) 문제점](https://github.com/hyojaekim/TIL/blob/master/ETC/OSIV.md#osivopen-session-in-view)
