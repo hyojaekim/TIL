@@ -43,3 +43,6 @@
 ### [ETC](https://github.com/hyojaekim/TIL/tree/master/ETC)
 
 - [OSIV (Open Session In View) 문제점](https://github.com/hyojaekim/TIL/blob/master/ETC/OSIV.md#osivopen-session-in-view)
+
+### Link
+- [IT 영단어 정리](https://brunch.co.kr/@hopeless/8)
