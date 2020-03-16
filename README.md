@@ -19,6 +19,7 @@
 ### [Spring](https://github.com/hyojaekim/TIL/tree/master/Spring)
 
 - [Controller와 RestController의 차이](https://github.com/hyojaekim/TIL/blob/master/Spring/Controller&RestController.md#controller%EC%99%80-restcontroller%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [테스트 타임아웃 문제](https://github.com/hyojaekim/TIL/blob/master/Spring/fail_test_by_timeout.md#%ED%85%8C%EC%8A%A4%ED%8A%B8-timeout-%EB%AC%B8%EC%A0%9C)
 
 ### [Algorithm](https://github.com/hyojaekim/TIL/tree/master/Algorithm)
 
