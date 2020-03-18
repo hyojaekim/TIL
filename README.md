@@ -50,3 +50,4 @@
 
 ### Link
 - [IT 영단어 정리](https://brunch.co.kr/@hopeless/8)
+- [스프링 어노테이션의 종류와 역할](https://gmlwjd9405.github.io/2018/12/02/spring-annotation-types.html)
