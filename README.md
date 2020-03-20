@@ -31,7 +31,8 @@
 
 ### [DataStructure](https://github.com/hyojaekim/TIL/tree/master/DataStructure)
 
-- [큐 (Queue)](https://github.com/hyojaekim/TIL/blob/master/DataStructure/queue.md#%ED%81%90queue)
+- [큐(Queue)](https://github.com/hyojaekim/TIL/blob/master/DataStructure/queue.md#%ED%81%90queue)
+- [트라이(Trie)란?](https://github.com/hyojaekim/TIL/blob/master/DataStructure/trie.md#%ED%8A%B8%EB%9D%BC%EC%9D%B4trie%EB%9E%80)
 
 ### [Web](https://github.com/hyojaekim/TIL/tree/master/Web)
 
