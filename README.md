@@ -52,3 +52,7 @@
 ### Link
 - [IT 영단어 정리](https://brunch.co.kr/@hopeless/8)
 - [스프링 어노테이션의 종류와 역할](https://gmlwjd9405.github.io/2018/12/02/spring-annotation-types.html)
+- [로드밸런서의 종류와 동작방식](https://deveric.tistory.com/m/91?fbclid=IwAR1vxHYsePPETUYmifUjdARxi10MC_PMj61Lc83erY-t9pneemQo-SLlZdU)
+- [웹 아키텍처](https://blog.rhostem.com/posts/2018-07-22-web-architecture-101)
+- [10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
+- [자바 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
