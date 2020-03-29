@@ -17,6 +17,7 @@
 - [Collections Framework](https://github.com/hyojaekim/TIL/blob/master/Java/collections-framework.md#collections-framework)
 - [String VS new String()](https://github.com/hyojaekim/TIL/blob/master/Java/string.md#string%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%83%9D%EC%84%B1%ED%95%A0%EA%B9%8C)
 - [String, StringBuilder, StringBuffer의 차이점](https://github.com/hyojaekim/TIL/blob/master/Java/create-string.md#string--stringbuilder--stringbuffer%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+- [Garbage Collection](https://github.com/hyojaekim/TIL/blob/master/Java/gc.md#garbage-collection)
 
 ### [Spring](https://github.com/hyojaekim/TIL/tree/master/Spring)
 

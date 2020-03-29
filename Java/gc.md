@@ -51,4 +51,4 @@ G1(Garbage First) GC
 [참고](https://d2.naver.com/helloworld/1329)
 
 
-### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Java/java.md#java---home)
+### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Java/gc.md#java---home)
