@@ -58,3 +58,4 @@
 - [10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 - [자바 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
 - [좋은 커밋 메세지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
