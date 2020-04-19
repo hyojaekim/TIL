@@ -7,6 +7,7 @@
 - [DataStructure](#DataStructure)
 - [Web](#Web)
 - [Network](#Network)
+- [Database](#Database)
 - [ETC](#ETC)
 - [Link](#Link)
 
@@ -44,6 +45,10 @@
 
 - [로드 밸런서란?](https://github.com/hyojaekim/TIL/blob/master/Network/load-balancer.md#%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9Cload-balancer)
 - [CDN이란?](https://github.com/hyojaekim/TIL/blob/master/Network/cdn.md#cdncontent-delivery-network)
+
+### [Database](https://github.com/hyojaekim/TIL/tree/master/Database)
+
+- [인덱스(index)란?]()
 
 ### [ETC](https://github.com/hyojaekim/TIL/tree/master/ETC)
 
