@@ -48,7 +48,7 @@
 
 ### [Database](https://github.com/hyojaekim/TIL/tree/master/Database)
 
-- [인덱스(index)란?]()
+- [인덱스(index)란?](https://github.com/hyojaekim/TIL/blob/master/Database/index.md#%EC%9D%B8%EB%8D%B1%EC%8A%A4index)
 
 ### [ETC](https://github.com/hyojaekim/TIL/tree/master/ETC)
 
