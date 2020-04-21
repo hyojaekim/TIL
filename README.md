@@ -45,6 +45,7 @@
 
 - [로드 밸런서란?](https://github.com/hyojaekim/TIL/blob/master/Network/load-balancer.md#%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9Cload-balancer)
 - [CDN이란?](https://github.com/hyojaekim/TIL/blob/master/Network/cdn.md#cdncontent-delivery-network)
+- [OSI 7계층](https://github.com/hyojaekim/TIL/blob/master/Network/osi7.md#osi-7%EA%B3%84%EC%B8%B5)
 
 ### [Database](https://github.com/hyojaekim/TIL/tree/master/Database)
 
