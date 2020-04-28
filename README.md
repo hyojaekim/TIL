@@ -68,3 +68,4 @@
 - [좋은 커밋 메세지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 - [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 - [Java ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
+- [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
