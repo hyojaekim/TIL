@@ -32,6 +32,6 @@ priorityQueue.add(3);
 priorityQueue.poll();
 ```
 
-큐에 객체를 사용하려면, **Comparable<Prisoner>** 를 구현해야 한다.
+큐에 객체를 사용하려면, `Comparable<E>` 를 구현해야 한다.
 
 ### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Java/priority-queue.md#java---home)
