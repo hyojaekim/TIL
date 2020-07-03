@@ -4,7 +4,7 @@
 
 큐는 FIFO(First In First Out) 즉, 먼저 들어온 것은 먼저 나가는 선입선출 형태이다.
 
-Java에서는 *PriorityQueue* 라는 큐가 존재한다. 간단하게 설명하자면 우선순위를 결정하여 들어온 순서와 상관없이 우선순위가 높은 것부터 나가게 된다.
+Java에서는 **PriorityQueue** 라는 큐가 존재한다. 간단하게 설명하자면 우선순위를 결정하여 들어온 순서와 상관없이 우선순위가 높은 것부터 나가게 된다.
 
 ```java
 PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
@@ -32,6 +32,6 @@ priorityQueue.add(3);
 priorityQueue.poll();
 ```
 
-큐에 객체를 사용하려면, *Comparable<Prisoner>* 를 구현해야 한다.
+큐에 객체를 사용하려면, **Comparable<Prisoner>** 를 구현해야 한다.
 
 ### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Java/priority-queue.md#java---home)
