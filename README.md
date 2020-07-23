@@ -2,6 +2,7 @@
 
 ### Categories
 - [Java](#Java)
+- [Javascript](#Javascript)
 - [Spring](#Spring)
 - [Algorithm](#Algorithm)
 - [DataStructure](#DataStructure)
@@ -20,6 +21,11 @@
 - [String, StringBuilder, StringBuffer의 차이점](https://github.com/hyojaekim/TIL/blob/master/Java/create-string.md#string--stringbuilder--stringbuffer%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [Garbage Collection](https://github.com/hyojaekim/TIL/blob/master/Java/gc.md#garbage-collection)
 - [PriorityQueue](https://github.com/hyojaekim/TIL/blob/master/Java/priority-queue.md#priorityqueue)
+
+### [Javascript](https://github.com/hyojaekim/TIL/tree/master/Javascript)
+
+- [script 위치](https://github.com/hyojaekim/TIL/blob/master/Javascript/js_position.md#%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9C%84%EC%B9%98)
+- [let, const, var](https://github.com/hyojaekim/TIL/blob/master/Javascript/variable.md#let-const-var)
 
 ### [Spring](https://github.com/hyojaekim/TIL/tree/master/Spring)
 
