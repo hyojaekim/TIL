@@ -1,4 +1,4 @@
-# [ETC](https://github.com/hyojaekim/TIL/tree/master/Javascript) / [🏠 Home](https://github.com/hyojaekim/Javascript)
+# [Javascript](https://github.com/hyojaekim/TIL/tree/master/Javascript) / [🏠 Home](https://github.com/hyojaekim/Javascript)
 
 ## 스크립트의 위치
 
