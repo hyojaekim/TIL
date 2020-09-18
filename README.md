@@ -79,3 +79,4 @@
 - [Java ConcurrentHashMap 동기화 방식](https://pplenty.tistory.com/17)
 - [서버 개발 인턴 robin의 성장기](https://tech.kakao.com/2020/04/24/2019-internship-robin/)
 - [Spring WebFlux는 어떻게 적은 리소스로 많은 트래픽을 감당할까?](https://alwayspr.tistory.com/44)
+- [The Missing Semester of Your CS Education](https://missing-semester-kr.github.io/)
