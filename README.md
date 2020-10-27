@@ -60,6 +60,14 @@
 
 - [인덱스(index)란?](https://github.com/hyojaekim/TIL/blob/master/Database/index.md#%EC%9D%B8%EB%8D%B1%EC%8A%A4index)
 
+### OS
+* 운영체제 - KOCW 강의 정리
+  1. [Introduction to Operating Systems](https://hyojaedev.tistory.com/27)
+  2. [System Structure & Program Execution 1](https://hyojaedev.tistory.com/28)
+  3. [System Structure & Program Execution 2](https://hyojaedev.tistory.com/29)
+  4. [Process](https://hyojaedev.tistory.com/30)
+
+
 ### [ETC](https://github.com/hyojaekim/TIL/tree/master/ETC)
 
 - [OSIV (Open Session In View) 문제점](https://github.com/hyojaekim/TIL/blob/master/ETC/OSIV.md#osivopen-session-in-view)
