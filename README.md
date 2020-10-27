@@ -65,6 +65,7 @@
 - [OSIV (Open Session In View) 문제점](https://github.com/hyojaekim/TIL/blob/master/ETC/OSIV.md#osivopen-session-in-view)
 - [테스트 타임아웃 문제](https://github.com/hyojaekim/TIL/blob/master/ETC/fail_test_by_timeout.md#%ED%85%8C%EC%8A%A4%ED%8A%B8-timeout-%EB%AC%B8%EC%A0%9C)
 - [우아한CRUD(1)](https://github.com/hyojaekim/TIL/blob/master/ETC/woowa_crud_1.md#%EC%9A%B0%EC%95%84%ED%95%9C-crud-1)
+- [AWS 주요 서비스](https://github.com/hyojaekim/programming-study/blob/master/ETC/aws.md#aws-%EC%A3%BC%EC%9A%94-%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 
 ### Link
