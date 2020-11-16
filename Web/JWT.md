@@ -98,9 +98,12 @@ JWT의 넓은 범용성, 무결성 보장, 필요한 값을 자체 포함할 수
 
 MSA 환경에서 권한 인가의 한 가지 방법으로 JWT를 사용한다면 더 MSA에 어울리고 더 클라우드 네이티브(Cloud Native)한 서비스를 만들 수 있을 것이라고 생각한다.
 
-
+---
 
 - [참고 자료](https://meetup.toast.com/posts/239)
-
+- [JWT 소개](https://velopert.com/2389)
+- [JWT 라이브러리](https://github.com/auth0/java-jwt)
+- [SpringBoot, Security로 구현하는 JWT](https://github.com/iyboklee/boot-security-jwt)
+- [JWT 콘솔(디코드 및 검증)](https://github.com/iyboklee/boot-security-jwt)
 
 ### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Web/JWT.md#Web---home)

@@ -48,6 +48,7 @@
 
 - [CORS란?](https://github.com/hyojaekim/TIL/blob/master/Web/cors.md#corscross-origin-resource-sharing%EB%9E%80)
 - [쿠키와 세션](https://github.com/hyojaekim/TIL/blob/master/Web/cookie%26session.md#%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98)
+- [JWT란?](https://github.com/hyojaekim/programming-study/blob/master/Web/JWT.md#jwt%EB%9E%80)
 
 ### [Network](https://github.com/hyojaekim/TIL/tree/master/Network)
 
