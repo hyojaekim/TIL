@@ -93,3 +93,4 @@
 - [The Missing Semester of Your CS Education](https://missing-semester-kr.github.io/)
 - [Spring 관련 레퍼런스 한글 번역](https://godekdls.github.io/)
 - [DB 커뮤니티](http://www.gurubee.net/)
+- [Gradle 정리](http://www.devkuma.com/books/14)
