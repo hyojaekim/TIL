@@ -28,7 +28,7 @@
 - [script 위치](https://github.com/hyojaekim/TIL/blob/master/Javascript/js_position.md#%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9C%84%EC%B9%98)
 - [let, const, var](https://github.com/hyojaekim/TIL/blob/master/Javascript/variable.md#let-const-var)
 - [async & await](https://github.com/hyojaekim/TIL/blob/master/Javascript/async-await.md#async--await)
-- [data type](https://github.com/hyojaekim/TIL/blob/master/Javascript/js-flow(1\\)%20-%20data%20type.md)
+- [data type](https://github.com/hyojaekim/TIL/blob/master/Javascript/jsflow1_data_type.md)
 
 ### [Spring](https://github.com/hyojaekim/TIL/tree/master/Spring)
 
@@ -52,7 +52,7 @@
 
 - [큐(Queue)](https://github.com/hyojaekim/TIL/blob/master/CS/DataStructure/queue.md#%ED%81%90queue)
 - [트라이(Trie)란?](https://github.com/hyojaekim/TIL/blob/master/CS/DataStructure/trie.md#%ED%8A%B8%EB%9D%BC%EC%9D%B4trie%EB%9E%80)
-- [PriorityQueue](https://github.com/hyojaekim/TIL/blob/master/DataStructure/priority-queue.md)
+- [PriorityQueue](https://github.com/hyojaekim/TIL/blob/master/CS/DataStructure/priority-queue.md)
 
 ### [Network](https://github.com/hyojaekim/TIL/tree/master/Network)
 
