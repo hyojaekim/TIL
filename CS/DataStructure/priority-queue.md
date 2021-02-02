@@ -1,5 +1,3 @@
-# [Java](https://github.com/hyojaekim/TIL/tree/master/Java) / [🏠 Home](https://github.com/hyojaekim/TIL)
-
 ### PriorityQueue
 
 큐는 FIFO(First In First Out) 즉, 먼저 들어온 것은 먼저 나가는 선입선출 형태이다.
@@ -33,5 +31,3 @@ priorityQueue.poll();
 ```
 
 큐에 객체를 사용하려면, `Comparable<E>` 를 구현해야 한다.
-
-### [맨 위로 이동](https://github.com/hyojaekim/TIL/blob/master/Java/priority-queue.md#java---home)
